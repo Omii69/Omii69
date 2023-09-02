@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Omii69.
-- 👀 I’m Learning Coding and working on open source projects.
-- 🌱 I’m currently learning Java and C.
+- 👀 I’m Learning C++, Python and HTML CSS.
 - 💞️ I’m looking to collaborate or work on some projects.
 - 📫 How to reach me: Instagram- 0mii_69
                        Twitter- Omii69
